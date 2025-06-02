@@ -1,3 +1,5 @@
+<html>
+  <script>
 import React, { useState } from 'react';
 import { ChevronRight, ChevronDown, Code, FileText, Database, Server, Monitor } from 'lucide-react';
 
@@ -391,3 +393,5 @@ const EmployeeSearchFlow = () => {
 };
 
 export default EmployeeSearchFlow;
+</script>
+</html>
